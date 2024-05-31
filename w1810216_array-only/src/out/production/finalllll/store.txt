@@ -1,0 +1,8 @@
+room 0 occupied by e
+room 1 occupied by pragathi
+room 2 occupied by e
+room 3 occupied by kamal
+room 4 occupied by e
+room 5 occupied by sithmini
+room 6 occupied by e
+room 7 occupied by e
